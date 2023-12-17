@@ -1,2 +1,0 @@
-A Lex program to identify and print all the floating-point
-numbers present in a given input.
