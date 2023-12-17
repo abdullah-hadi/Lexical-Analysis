@@ -1,2 +1,0 @@
-Constructing a lex program that will identify and count positive and
-negative numbers.
